@@ -8,17 +8,7 @@ Data Source:
 The dataset contains columns like: work_year, experience_level, employment_type, job_title, salary, salary_currency, employee_residence, remote_ratio, company_location, company_size.
 
 
-DataScience_Salary_Visualization/
-│
-├─ data/                  # CSV file
-│   └─ ds_salaries_2024.csv
-│
-├─ notebooks/             # Jupyter Notebook
-│   └─ salary_visualization.ipynb
-│
-│
-├─ requirements.txt       # Libraries needed
-└─ README.md              # Project description
+
 
 Insights:
 Full-time employees (FT) represent the majority of the workforce.
